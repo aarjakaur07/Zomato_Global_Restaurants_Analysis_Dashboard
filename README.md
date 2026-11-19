@@ -46,14 +46,6 @@ Since this was my **first hands-on project** I used **Generative AI as a learnin
 
 ---
 
-## Files in This Repository 📂
-* `Zomato_Analysis_Dashboard.pbix` — The complete interactive Power BI report.
-* `data/` — The cleaned dataset used to power the visuals.
-* `screenshots/` — Preview images of the Executive Overview, Drill-Through Profile and Data Model.
-* `README.md` — Project summary and documentation.
-
----
-
 ## How to View the Dashboard 🚀
 1. Download the `.pbix` file from this repository.
 2. Open it in **Microsoft Power BI Desktop**.
