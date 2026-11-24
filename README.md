@@ -1,4 +1,4 @@
-# Zomato Restaurants Global Analysis Dashboard 🍽️
+# Zomato Restaurants Analysis Dashboard 🍽️
 
 ## About This Project 📌
 This is my **first complete data analytics project** built using **Microsoft Excel** and **Power BI**. 
