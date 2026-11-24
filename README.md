@@ -35,7 +35,7 @@ By analyzing the data and building the visuals here are the main takeaways I dis
 
 ### 1. Data Cleaning & Preparation in Excel and Power Query
 * **Fixed Messy Text:** Cleaned broken characters in restaurant names and addresses and removed extra hidden spaces (`TRIM` and `CLEAN`) so names and cities grouped properly.
-* **Created Clearer Columns:** Calculated **Average Cost for One Person** from the original cost for two column and verified latitude and longitude coordinates for map plotting.
+* **Created Clearer Columns:** Calculated **Average Cost for One Person** from the original cost for two column.
 * **Split Multi-Cuisine Lists:** Separated cells containing multiple comma-separated cuisines (such as *"North Indian, Chinese, Mughlai"*) into individual rows in a dedicated `cuisines_dim` table so users can filter by a single cuisine without inflating vote counts.
 
 ### 2. Data Modeling & DAX Calculations in Power BI
