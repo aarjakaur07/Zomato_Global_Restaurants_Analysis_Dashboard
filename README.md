@@ -80,7 +80,7 @@ Since this was my first hands-on project I used **Generative AI as a learning an
 ---
 
 ## Files in This Repository 📂
-* `Zomato_Analysis_Dashboard.pbix`: The complete interactive Power BI report.
+* `zomato_restaurants_analysis_dashboard.pbix`: The complete interactive Power BI report.
 * `zomato_restaurants_dataset.xlsx`: The Excel workbook containing both the raw and cleaned Zomato datasets.
 * `README.md`: Project summary and documentation.
 
